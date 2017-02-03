@@ -3,8 +3,8 @@ title: "SRT411assignment0"
 author: "juan zhao"
 date: "February 2, 2017"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 
